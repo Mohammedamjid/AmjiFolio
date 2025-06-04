@@ -29,3 +29,13 @@ Welcome to **AmjiFolio**, my personal portfolio website built using **React**, *
 
 ## 📁 Project Structure
 
+project/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── sections/
+│ └── App.tsx
+├── package.json
+├── tailwind.config.js
+└── vite.config.ts

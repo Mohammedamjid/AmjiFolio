@@ -39,3 +39,6 @@ project/
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.ts
+
+🙋‍♂️ Author
+Mohammed Amjid

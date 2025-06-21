@@ -10,8 +10,8 @@ export type Project = {
 export type Skill = {
   name: string;
   icon: string;
-  proficiency: number;
-  category: 'frontend' | 'backend' | 'tools' | 'database';
+  description: string;
+  category: 'frontend' | 'backend' | 'tools' | 'cloud'  | 'database';
    color?: string;
 };
 
